@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <f href="C:/Users/USER4/Desktop/testTeamGIT/SailsJS/Generate_Badge_Pdf/Docs/badgeTemplarePDF_Model.pdf"/>
+  <fields>
+    <field name="Nom">
+      <value>sss</value>
+    </field>
+    <field name="Prénom">
+      <value>sss</value>
+    </field>
+    <field name="Classe">
+      <value>sss</value>
+    </field>
+    <field name="Groupe">
+      <value>sss</value>
+    </field>
+    <field name="Annee_scolaire">
+      <value>11-06-2018</value>
+    </field>
+    <field name="submit">
+      <value>Generate</value>
+    </field>
+  </fields>
+</xfdf>
